@@ -1,6 +1,6 @@
 # Indian::States
 
-TODO: Write a gem description
+India is a country located in southern Asia. Get list of all indian states with sub-states.
 
 ## Installation
 
@@ -18,11 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+	Indian::States::in_states # returns list of states as JSON format
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/indian-states/fork )
+1. Fork it ( http://github.com/vajapravin/indian-states/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

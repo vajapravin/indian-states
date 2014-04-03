@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vajapravin23@gmail.com"]
   spec.summary       = %q{indian-states gem provides you list of Indian States with sub-states.}
   spec.description   = %q{India is a country located in southern Asia. Get list of all indian states with sub-states.}
-  spec.homepage      = "https://github.com/vajapravin/indian-states"
+  spec.homepage      = "http://github.com/vajapravin/indian-states"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
